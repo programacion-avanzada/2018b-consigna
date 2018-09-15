@@ -14,9 +14,9 @@ Superada esa cantidad, se podrán sumar puntos extras con los requisitos opciona
 Adicionalmente, se utilizará el seguimiento individual de los estudiantes para obtener una calificación final del taller.
 
 ### Entregas
-1) La primera entrega debe contar con el diagrama de clases del modelo del juego, implementado y testeado.
-2) La segunda entrega debe contar con la posibilidad de interactuar con los elementos del juego en tiempo real en un entorno simulado.
-3) Entrega final, ¡todo lo que tengan!
+1. La primera entrega debe contar con el diagrama de clases del modelo del juego, implementado y testeado.
+2. La segunda entrega debe contar con la posibilidad de interactuar con los elementos del juego en tiempo real en un entorno simulado.
+3. Entrega final, ¡todo lo que tengan!
 
 > Se espera que las prácticas de programación sean buenas, y adecuadas al conocimiento adquirido en la materia.
 
@@ -44,6 +44,7 @@ La mecánica del juego es similar a la del clásico snake, pero se modifica la f
 
 Notas:
 > (*1) Una sala puede estar activa para que ingresen jugadores siempre, o sólo mientras un juego no esté activo en la misma. Aún así, debe aparecer en la lista de juegos como que el juego ya inició
+>
 > (*2) La partida podrá ser iniciada por el creador de la sala, o cuando todos los jugadores estén listos, o cualquier otra condición que consideren
 
 
@@ -55,7 +56,7 @@ Notas:
 4. Como usuario quiero enviar reacciones o mensajes predeterminados durante la partida
 5. Como usuario quiero elegir al momento de crear la sala un terreno donde ocurrirá el juego
 6. Como usuario quiero configurar los controles de mi personaje
-7. Como usuario quiero ver mi historial de partidas con sus detalles (puntos, cantidad de fruta comida, muertes, asesinatos; de cada viborita)
+7. Como usuario quiero ver mi historial de partidas con sus detalles *(puntos, cantidad de fruta comida, muertes, asesinatos; de cada viborita, etc)*
 8. Como usuario quiero ingresar a una partida, pero no participar, sino solo ver la partida, como un espectador
 
 
