@@ -58,7 +58,9 @@ Notas:
 6. Como usuario quiero configurar los controles de mi personaje
 7. Como usuario quiero ver mi historial de partidas con sus detalles *(puntos, cantidad de fruta comida, muertes, asesinatos; de cada viborita, etc)*
 8. Como usuario quiero ingresar a una partida, pero no participar, sino solo ver la partida, como un espectador
-
+9. Como usuario quiero obtener ventajas temporales sobre los otros jugadores, luego de interactuar con objetos en el mapa (velocidad, invulnerabilidad, toque venenoso, proteccion temporal, etc)
+10. Como usuario quiero desplazarme a una velocidad mayor en forma limitada
+11. Como usuario quiero disfrutar de buenos efectos de sonido y música mientras juego
 
 **Continuará...**
 
